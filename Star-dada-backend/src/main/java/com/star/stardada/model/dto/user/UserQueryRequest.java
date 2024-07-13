@@ -1,15 +1,13 @@
 package com.star.stardada.model.dto.user;
 
 import com.star.stardada.common.PageRequest;
-
-import java.io.Serializable;
 import lombok.Data;
 import lombok.EqualsAndHashCode;
 
+import java.io.Serializable;
+
 /**
  * 用户查询请求
- *
- * @author <a>花泷</a>
  *
  */
 @EqualsAndHashCode(callSuper = true)

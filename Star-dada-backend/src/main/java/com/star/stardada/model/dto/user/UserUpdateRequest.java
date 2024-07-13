@@ -1,12 +1,11 @@
 package com.star.stardada.model.dto.user;
 
-import java.io.Serializable;
 import lombok.Data;
+
+import java.io.Serializable;
 
 /**
  * 用户更新请求
- *
- * @author <a>花泷</a>
  *
  */
 @Data

@@ -1,14 +1,13 @@
 package com.star.stardada.model.enums;
 
+import org.apache.commons.lang3.ObjectUtils;
+
 import java.util.Arrays;
 import java.util.List;
 import java.util.stream.Collectors;
-import org.apache.commons.lang3.ObjectUtils;
 
 /**
  * 用户角色枚举
- *
- * @author <a>花泷</a>
  *
  */
 public enum UserRoleEnum {
